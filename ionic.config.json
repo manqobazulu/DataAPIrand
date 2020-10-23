@@ -1,0 +1,7 @@
+{
+  "name": "apiForms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
